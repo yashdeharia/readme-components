@@ -36,6 +36,8 @@ Change the `?username=` value to your GitHub's username.
 [![Twitter Followers](https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
 ```
 
+# Social
+
 ## Discord
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 
