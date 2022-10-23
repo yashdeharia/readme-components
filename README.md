@@ -36,15 +36,15 @@ Change the `?username=` value to your GitHub's username.
 [![Twitter Followers](https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
 ```
 
-# Social
+# Social :
 
-## Discord
+## Discord.
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 
-## Reddit
+## Reddit.
 <img src="https://aleen42.github.io/badges/src/reddit.svg" alt="discord"/>
 
-## Facebook
+## Facebook.
 
 ## Icons
 ### Type 1
